@@ -122,7 +122,12 @@ LSTM — Long Short-Term Memory/
 │   └── theoretische_presentatie_LSTM.pdf
 │
 ├── notebooks/
-│   └── energy_lstm_prediction.ipynb
+│   ├── energy_lstm_prediction.ipynb
+│   └── LSTM_models/                        ← voorgetrainde modellen, klaar om te laden
+│       ├── best_lstm_seq24.keras            ← beste model getraind op 1 dag context
+│       ├── best_lstm_seq48.keras            ← beste model getraind op 2 dagen context
+│       ├── best_lstm_seq168.keras           ← beste model getraind op 1 week context
+│       └── best_lstm_seq730.keras           ← beste model getraind op 1 maand context
 │
 ├── results/
 │   ├── 01_overview.png
