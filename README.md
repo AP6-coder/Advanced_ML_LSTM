@@ -91,7 +91,7 @@ Het LSTM-model met een contextvenster van 1 week presteert het best op MAE en MA
 
 ### Via Google Colab (aanbevolen)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JOUWGEBRUIKERSNAAM/lstm-energy-prediction/blob/main/notebooks/energy_lstm_prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AP6-coder/lstm-energy-prediction/blob/main/notebooks/energy_lstm_prediction.ipynb)
 
 Klik op de badge en het notebook opent direct in Colab — geen installatie vereist.
 
@@ -99,7 +99,7 @@ Klik op de badge en het notebook opent direct in Colab — geen installatie vere
 
 ```bash
 # 1. Clone de repository
-git clone https://github.com/JOUWGEBRUIKERSNAAM/lstm-energy-prediction.git
+git clone https://github.com/AP6-coder/Advanced_ML_LSTM.git
 cd lstm-energy-prediction
 
 # 2. Installeer dependencies
