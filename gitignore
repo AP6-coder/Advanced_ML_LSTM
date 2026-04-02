@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Resultaten (optioneel — verwijder deze regel als je grafieken wil tonen in de README)
+# results/
+
+# Getrainde modellen — te groot voor GitHub
+*.keras
+*.h5
+
+# Data — wordt automatisch gedownload in het notebook
+*.zip
+*.txt
+household_power_consumption*
+
+# macOS
+.DS_Store
