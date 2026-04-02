@@ -91,8 +91,7 @@ Het LSTM-model met een contextvenster van 1 week presteert het best op MAE en MA
 
 ### Via Google Colab (aanbevolen)
 
-[![Open In Colab](https://colab.research.google.com/github/AP6-coder/Advanced_ML_LSTM/blob/main/notebooks/energy_lstm_prediction.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AP6-coder/Advanced_ML_LSTM/blob/main/notebooks/energy_lstm_prediction.ipynb)
 Klik op de badge en het notebook opent direct in Colab — geen installatie vereist.
 
 ### Lokaal draaien
